@@ -8,7 +8,7 @@ A simple website for patients to book doctor appointments online.
 ## 📖 Description
 A complete MySQL database for managing clinic operations, including:
 - Patient records
-- Doctor information
+- Doctors and staff information
 - Appointment scheduling
 - Medical history tracking
 

@@ -1,4 +1,4 @@
-[deepseek_20250508_9d12ae.txt](https://github.com/user-attachments/files/20100353/deepseek_20250508_9d12ae.txt)
+
 # week8-DatabaseAssignment
 
 ## PROJECT TITLE: Clinic Booking System
@@ -12,3 +12,4 @@ A complete MySQL database for managing clinic operations, including:
 - Appointment scheduling
 - Medical history tracking
 
+[deepseek_20250508_9d12ae.txt](https://github.com/user-attachments/files/20100353/deepseek_20250508_9d12ae.txt)

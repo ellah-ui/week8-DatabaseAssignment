@@ -13,7 +13,7 @@ A complete MySQL database for managing clinic operations, including:
 - Medical history tracking
 
 # Project Structure
-    ```text
+
     clinic-booking-system/
     ├── clinic_database.sql    # Complete MySQL database schema
     ├── README.md              # Project documentation

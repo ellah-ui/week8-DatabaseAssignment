@@ -12,8 +12,6 @@ A complete MySQL database for managing clinic operations, including:
 - Appointment scheduling
 - Medical history tracking
 
-Project Structure
-clinic-booking-system/
-├── clinic_database.sql    # Complete MySQL database schema
-├── README.md              # Project documentation
-└── erd.png                # Entity Relationship Diagram
+# Project Structure
+![project structure](https://github.com/user-attachments/assets/fe1ced9a-d7fd-4520-8b8c-18bb461978b9)
+

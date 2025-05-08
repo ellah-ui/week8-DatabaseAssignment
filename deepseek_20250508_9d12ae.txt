@@ -1,0 +1,4 @@
+clinic-booking-system/
+├── clinic_database.sql    # Complete MySQL database schema
+├── README.md              # Project documentation
+└── erd.png                # Entity Relationship Diagram

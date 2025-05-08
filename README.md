@@ -1,6 +1,6 @@
 # week8-DatabaseAssignment
 
-**Project Title:** Clinic Booking System
+**PROJECT TITLE:** Clinic Booking System
 
 A simple website for patients to book doctor appointments online.
 

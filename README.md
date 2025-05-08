@@ -25,7 +25,7 @@ A complete MySQL database for managing clinic operations, including:
     clinic-booking-system/
     ├── clinic_database.sql    # Complete MySQL database schema
     ├── README.md              # Project documentation
-    └── clinic_database.png                # Entity Relationship Diagram
+    └── clinic_database.png    # Entity Relationship Diagram
 
 
 To use this project:
